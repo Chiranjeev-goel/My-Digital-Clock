@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    align-items: center;
+    /* text-align: center; */
+}
+#mydigitalclock{
+    position:absolute;
+   text-align: center;
+   top:40%;
+   left: 28%;
+   /* right: 20%; */
+   
+   font-size: 12rem;
+    background-color: aqua;
+    align-items: center;
+}
